@@ -9,6 +9,8 @@ för anrop respektive återhopp till och från subrutiner, allokering av lokala 
   
 I efterföljande delar ska ytterligare OP-koder, ALU:n samt interrupt-implementering ska läggas till.
 
+Filen "stack.png" utgör en bild som demonstrerar stackens arbetssätt visuellt samt via text.
+
 Filen "embedded_computer_system_part4_start_code.zip" innehåller startkoden, där stacken läggs till samt
 att programkoden uppdateras för att testa stackimplementeringen.
 
